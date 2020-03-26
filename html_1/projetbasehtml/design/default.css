@@ -1,0 +1,92 @@
+/*ceci  est  mon  commentaire   */
+
+#logo {
+    
+    
+    
+    
+}
+
+body {
+   font-family: 'Roboto', sans-serif;
+    background-color: #0954e0  ;
+    
+    
+}
+
+
+h1 {
+    font-family: 'theblacklist', arial,  sans-serif; 
+    text-align: center;
+    
+    
+}
+
+h2 {
+   font-family: 'Public Sans', sans-serif;
+   
+}
+
+
+
+
+a  {
+    text-decoration: none; 
+    color:  black; 
+    
+}
+
+
+ul  {
+    padding:  0; 
+    
+    
+}
+
+li {
+    
+    list-style-type: none;
+}
+
+nav {
+    text-align: center;
+    
+}
+
+
+
+@font-face {
+    font-family: 'theblackliste';
+    src:'../src/theblackliste.ttf')  format('truetype');
+    
+    
+    
+}
+
+
+.bienvenue {
+   color: red; 
+    
+    
+}
+
+
+section {
+    
+    
+}
+
+p a {
+    color:   red;
+    
+    
+}
+
+a[title="Acceuil"] {
+    color:  red;
+    
+    
+}
+
+
+
